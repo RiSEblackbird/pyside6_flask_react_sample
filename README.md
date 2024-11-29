@@ -1,4 +1,6 @@
-# プロジェクトのディレクトリで以下のコマンドを実行
+## PySide6のデスクトップアプリウインドウ上でFlask&React.jsのWebアプリを稼働させるサンプル
+
+## プロジェクトのディレクトリで以下のコマンドを実行
 `npm create vite@latest frontend -- --template react-ts`
 
 `cd frontend`
